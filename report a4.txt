@@ -1,0 +1,11 @@
+report a4
+heading-18
+font style times-roman-18(center)
+sub-chapter-12
+rollno and name -caps
+abstract
+introduction
+system design
+implementation
+result
+reference
